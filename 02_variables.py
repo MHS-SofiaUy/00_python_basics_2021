@@ -6,5 +6,7 @@ greeting = "hello world"
 # they can also be numbers
 fav_num = 7
 
-# this variable has a problem
-my_name = "Sofia Uy"
+# Below is a constant (the name is in UPPERCASE)
+PI = 3.14
+
+01_variable = "try this"
